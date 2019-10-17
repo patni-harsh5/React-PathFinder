@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/patni-harsh5/React-PathFinder.git/static/css/main.85c6065a.chunk.css",
+    "main.js": "/patni-harsh5/React-PathFinder.git/static/js/main.2d6d5fdf.chunk.js",
+    "main.js.map": "/patni-harsh5/React-PathFinder.git/static/js/main.2d6d5fdf.chunk.js.map",
+    "runtime-main.js": "/patni-harsh5/React-PathFinder.git/static/js/runtime-main.0e409b63.js",
+    "runtime-main.js.map": "/patni-harsh5/React-PathFinder.git/static/js/runtime-main.0e409b63.js.map",
+    "static/js/2.8e0add0d.chunk.js": "/patni-harsh5/React-PathFinder.git/static/js/2.8e0add0d.chunk.js",
+    "static/js/2.8e0add0d.chunk.js.map": "/patni-harsh5/React-PathFinder.git/static/js/2.8e0add0d.chunk.js.map",
+    "index.html": "/patni-harsh5/React-PathFinder.git/index.html",
+    "precache-manifest.e737505224f5cbf02edb1db290afcd9b.js": "/patni-harsh5/React-PathFinder.git/precache-manifest.e737505224f5cbf02edb1db290afcd9b.js",
+    "service-worker.js": "/patni-harsh5/React-PathFinder.git/service-worker.js",
+    "static/css/main.85c6065a.chunk.css.map": "/patni-harsh5/React-PathFinder.git/static/css/main.85c6065a.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0e409b63.js",
+    "static/js/2.8e0add0d.chunk.js",
+    "static/css/main.85c6065a.chunk.css",
+    "static/js/main.2d6d5fdf.chunk.js"
+  ]
+}
